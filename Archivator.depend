@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1438338253 source:c:\users\Артем\documents\workspace\archivator\haff.c
+
+1438339131 source:c:\users\Артем\documents\workspace\archivator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Haff.h"
+
+1438339133 c:\users\Артем\documents\workspace\archivator\haff.h
+
+1438338253 c:\users\Артем\documents\workspace\archivator\haff.c
+
